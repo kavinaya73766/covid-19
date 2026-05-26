@@ -153,6 +153,23 @@ Correlation analysis between case categories
 Interactive visualizations and dashboard
 Better understanding of global pandemic trends
 Useful insights for decision-making
+
+Output Overview:
+<img width="1268" height="591" alt="image" src="https://github.com/user-attachments/assets/71fef2e0-486f-4100-ac6e-eea9466717b7" />
+
+<img width="1231" height="671" alt="image" src="https://github.com/user-attachments/assets/e4bd4ac6-b689-4b49-a190-b05c74c44625" />
+
+<img width="791" height="647" alt="image" src="https://github.com/user-attachments/assets/8edf1810-77bd-40d8-9f87-207935ec62bb" />
+
+<img width="1269" height="653" alt="image" src="https://github.com/user-attachments/assets/7eec2a6c-dd0c-420f-91c3-175fa4a3f494" />
+
+<img width="1264" height="652" alt="image" src="https://github.com/user-attachments/assets/a2840cc0-975c-48ea-a784-21db137061bf" />
+
+<img width="1276" height="649" alt="image" src="https://github.com/user-attachments/assets/21a25b2c-acfd-4336-a339-958ed02d2906" />
+
+<img width="1265" height="650" alt="image" src="https://github.com/user-attachments/assets/9ce0989f-a37f-401e-a0e8-925142fc35e6" />
+
+
 **Conclusion**
 
 The COVID-19 Data Analysis project successfully analyzed worldwide pandemic data using Python and visualization techniques.
@@ -169,18 +186,3 @@ The dashboard and visualizations made the analysis easier to understand and help
 Overall, this project demonstrates the importance of data analysis and visualization in understanding real-world problems such as the COVID-19 pandemic.
 
 Overall, this project demonstrates the importance of data analysis and visualization in understanding real-world problems such as the COVID-19 pandemic.
-
-Output Overview:
-<img width="1268" height="591" alt="image" src="https://github.com/user-attachments/assets/71fef2e0-486f-4100-ac6e-eea9466717b7" />
-
-<img width="1231" height="671" alt="image" src="https://github.com/user-attachments/assets/e4bd4ac6-b689-4b49-a190-b05c74c44625" />
-
-<img width="791" height="647" alt="image" src="https://github.com/user-attachments/assets/8edf1810-77bd-40d8-9f87-207935ec62bb" />
-
-<img width="1269" height="653" alt="image" src="https://github.com/user-attachments/assets/7eec2a6c-dd0c-420f-91c3-175fa4a3f494" />
-
-<img width="1264" height="652" alt="image" src="https://github.com/user-attachments/assets/a2840cc0-975c-48ea-a784-21db137061bf" />
-
-<img width="1276" height="649" alt="image" src="https://github.com/user-attachments/assets/21a25b2c-acfd-4336-a339-958ed02d2906" />
-
-<img width="1265" height="650" alt="image" src="https://github.com/user-attachments/assets/9ce0989f-a37f-401e-a0e8-925142fc35e6" />
