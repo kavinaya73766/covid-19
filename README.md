@@ -142,8 +142,8 @@ Development Platform
 Google Colab / Jupyter Notebook
 COVID-19 Data Analysis Project Report
 
-**Expected Output
-**
+**Expected Output**
+
 The expected outputs of the project are:
 
 Cleaned COVID-19 dataset
