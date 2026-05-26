@@ -1,5 +1,4 @@
-COVID-19 Data Analysis Project Report
-Project Overview
+**Project Overview**
 
 This project focuses on analyzing COVID-19 data using Python and data visualization libraries. The main purpose of the project is to understand the spread of COVID-19 across different countries and analyze confirmed cases, deaths, recovered cases, and active cases.
 
