@@ -170,4 +170,5 @@ Overall, this project demonstrates the importance of data analysis and visualiza
 
 Overall, this project demonstrates the importance of data analysis and visualization in understanding real-world problems such as the COVID-19 pandemic.
 
+Output Overview:
 <img width="1268" height="591" alt="image" src="https://github.com/user-attachments/assets/71fef2e0-486f-4100-ac6e-eea9466717b7" />
